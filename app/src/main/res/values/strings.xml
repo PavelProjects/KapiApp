@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KapiCard</string>
+    <string name="show_balance">По номеру карты</string>
+    <string name="mail_address">Почта:</string>
+    <string name="phone_number">Телефон:</string>
+    <string name="user_name">Имя:</string>
+    <string name="balance">Баланс:</string>
+    <string name="change_balance">Изменить баланс</string>
+    <string name="card_number">Номер карты:</string>
+    <string name="new_sum">Новая сумма:</string>
+    <string name="old">Старая</string>
+    <string name="owner_data">Данные держателя</string>
+    <string name="bike_model">модель велосипеда</string>
+    <string name="save">Сохранить</string>
+    <string name="add_card">добавить карту</string>
+    <string name="add_new_card">Добавить новую карту</string>
+    <string name="all_clients">все клиенты</string>
+    <string name="by_phone">по телефону</string>
+</resources>

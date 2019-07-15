@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_add_new_card"
+        android:title="@string/add_card"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_all_clients"
+        android:title="@string/all_clients"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_logout"
+    app:showAsAction="never"
+    android:title="Выйти"/>
+</menu>
